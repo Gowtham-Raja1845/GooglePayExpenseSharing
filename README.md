@@ -29,15 +29,13 @@ Maintain transaction history in expenses.csv.
 Display settlements in a table format.
 Suggest minimal transactions to settle debts.
 
+### Sample Output
 
-## Final Settlements Table
+### Final Settlements Table
+![Settlements](settlements.png)
 
-!xpenseSharingProject/settlements.png.png
+### Suggested Transactions
+![Transactions](transactions.png)
 
-## Suggested Transactions
-
-![penseSharingProject/transactions.png.png
-
-## Transaction History
-
-![penseSharingProject/history.png.png
+### Transaction History
+![History](history.png)
