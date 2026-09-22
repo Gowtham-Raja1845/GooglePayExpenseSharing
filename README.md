@@ -32,12 +32,12 @@ Suggest minimal transactions to settle debts.
 
 ## Final Settlements Table
 
-![SetteSharingProject/settlements.png.png
+!xpenseSharingProject/settlements.png.png
 
 ## Suggested Transactions
 
-![TransactionsProject/transactions.png.png
+![penseSharingProject/transactions.png.png
 
 ## Transaction History
 
-![HistoryaringProject/history.png.png
+![penseSharingProject/history.png.png
