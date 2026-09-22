@@ -30,13 +30,11 @@ Display settlements in a table format.
 Suggest minimal transactions to settle debts.
 
 
-### Sample Output
-
 ### Final Settlements Table
-![Settlements](settlements.png)
+ExpenseSharingProject/settlements.png.png
 
 ### Suggested Transactions
-![Transactions](transactions.png)
+![TransactionsProject/transactions.png.png
 
 ### Transaction History
-![History](history.png)
+![HistoryaringProject/history.png.png
