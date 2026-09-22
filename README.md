@@ -32,10 +32,10 @@ Suggest minimal transactions to settle debts.
 ### Sample Output
 
 ### Final Settlements Table
-![Settlements](settlements.png)
+![Settlements](settlements.png..png)
 
 ### Suggested Transactions
-![Transactions](transactions.png)
+![Transactions](transactions.png.png)
 
 ### Transaction History
-![History](history.png)
+![History](history.png.png)
