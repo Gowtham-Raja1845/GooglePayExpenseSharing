@@ -1,0 +1,4 @@
+DateTime,Payer,Beneficiaries,Amount,Description
+2026-09-22 06:41:24,Alice,"Alice,Bob,Carol",1250,Hotel bill
+2026-09-22 06:41:24,Bob,"Bob,Carol",800,Taxi fare
+2026-09-22 06:41:24,Carol,"Alice,Bob,Carol,David",1785,Dinner
